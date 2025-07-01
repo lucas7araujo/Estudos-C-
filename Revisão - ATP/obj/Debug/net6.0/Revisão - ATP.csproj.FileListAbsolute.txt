@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\Estudos C#\Revisão - ATP\bin\Debug\net6.0\Revisão - ATP.exe
+C:\Users\Acer\Desktop\Estudos C#\Revisão - ATP\bin\Debug\net6.0\Revisão - ATP.deps.json
+C:\Users\Acer\Desktop\Estudos C#\Revisão - ATP\bin\Debug\net6.0\Revisão - ATP.runtimeconfig.json
+C:\Users\Acer\Desktop\Estudos C#\Revisão - ATP\bin\Debug\net6.0\Revisão - ATP.dll
+C:\Users\Acer\Desktop\Estudos C#\Revisão - ATP\bin\Debug\net6.0\Revisão - ATP.pdb
+C:\Users\Acer\Desktop\Estudos C#\Revisão - ATP\obj\Debug\net6.0\Revisão - ATP.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Estudos C#\Revisão - ATP\obj\Debug\net6.0\Revisão - ATP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Estudos C#\Revisão - ATP\obj\Debug\net6.0\Revisão - ATP.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Estudos C#\Revisão - ATP\obj\Debug\net6.0\Revisão - ATP.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Estudos C#\Revisão - ATP\obj\Debug\net6.0\Revisão - ATP.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Estudos C#\Revisão - ATP\obj\Debug\net6.0\Revisão - ATP.dll
+C:\Users\Acer\Desktop\Estudos C#\Revisão - ATP\obj\Debug\net6.0\refint\Revisão - ATP.dll
+C:\Users\Acer\Desktop\Estudos C#\Revisão - ATP\obj\Debug\net6.0\Revisão - ATP.pdb
+C:\Users\Acer\Desktop\Estudos C#\Revisão - ATP\obj\Debug\net6.0\Revisão - ATP.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Estudos C#\Revisão - ATP\obj\Debug\net6.0\ref\Revisão - ATP.dll
