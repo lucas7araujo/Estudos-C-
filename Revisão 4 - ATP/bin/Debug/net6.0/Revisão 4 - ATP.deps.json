@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Revisão 4 - ATP/1.0.0": {
+        "runtime": {
+          "Revisão 4 - ATP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Revisão 4 - ATP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
