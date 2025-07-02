@@ -12,4 +12,4 @@ Fique à vontade para explorar os arquivos e, se quiser trocar ideia ou me ajuda
 
 📫 **Contato**  
 Caso tenha interesse em conversar ou compartilhar algo:  
-👉 [linkedin.com/in/lucas7araujo](https://www.linkedin.com/in/lucas7araujo) 
+👉 [linkedin.com/in/lucas7araujo](www.linkedin.com/in/lucasaraujo21) 
