@@ -2,7 +2,7 @@
 
 Este repositório foi criado para armazenar meus estudos em **C#**, uma linguagem que estou aprendendo com muito interesse e dedicação.
 
-Sou estudante de **Sistemas de Informação** e estou em busca de uma **oportunidade de estágio na área de desenvolvimento**. Estou organizando meus códigos aqui como forma de acompanhar meu progresso e também compartilhar o que venho aprendendo.
+Sou estudante de **Sistemas de Informação** e **estagiário na área de desenvolvimento**. Estou organizando meus códigos aqui como forma de acompanhar meu progresso e também compartilhar o que venho aprendendo.
 
 💻 Estou gostando muito de programar e sempre aberto a **dicas, sugestões ou feedbacks construtivos**!
 
