@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\Estudos C#\Estudos - .Linq\bin\Debug\net6.0\Estudos - .Linq.exe
+C:\Users\Acer\Desktop\Estudos C#\Estudos - .Linq\bin\Debug\net6.0\Estudos - .Linq.deps.json
+C:\Users\Acer\Desktop\Estudos C#\Estudos - .Linq\bin\Debug\net6.0\Estudos - .Linq.runtimeconfig.json
+C:\Users\Acer\Desktop\Estudos C#\Estudos - .Linq\bin\Debug\net6.0\Estudos - .Linq.dll
+C:\Users\Acer\Desktop\Estudos C#\Estudos - .Linq\bin\Debug\net6.0\Estudos - .Linq.pdb
+C:\Users\Acer\Desktop\Estudos C#\Estudos - .Linq\obj\Debug\net6.0\Estudos - .Linq.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Estudos C#\Estudos - .Linq\obj\Debug\net6.0\Estudos - .Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Estudos C#\Estudos - .Linq\obj\Debug\net6.0\Estudos - .Linq.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Estudos C#\Estudos - .Linq\obj\Debug\net6.0\Estudos - .Linq.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Estudos C#\Estudos - .Linq\obj\Debug\net6.0\Estudos - .Linq.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Estudos C#\Estudos - .Linq\obj\Debug\net6.0\Estudos - .Linq.dll
+C:\Users\Acer\Desktop\Estudos C#\Estudos - .Linq\obj\Debug\net6.0\refint\Estudos - .Linq.dll
+C:\Users\Acer\Desktop\Estudos C#\Estudos - .Linq\obj\Debug\net6.0\Estudos - .Linq.pdb
+C:\Users\Acer\Desktop\Estudos C#\Estudos - .Linq\obj\Debug\net6.0\Estudos - .Linq.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Estudos C#\Estudos - .Linq\obj\Debug\net6.0\ref\Estudos - .Linq.dll

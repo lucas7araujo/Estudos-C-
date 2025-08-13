@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\Estudos C#\POO\Exercício 2 - POO\bin\Debug\net6.0\Exercício 2 - POO.exe
+C:\Users\Acer\Desktop\Estudos C#\POO\Exercício 2 - POO\bin\Debug\net6.0\Exercício 2 - POO.deps.json
+C:\Users\Acer\Desktop\Estudos C#\POO\Exercício 2 - POO\bin\Debug\net6.0\Exercício 2 - POO.runtimeconfig.json
+C:\Users\Acer\Desktop\Estudos C#\POO\Exercício 2 - POO\bin\Debug\net6.0\Exercício 2 - POO.dll
+C:\Users\Acer\Desktop\Estudos C#\POO\Exercício 2 - POO\bin\Debug\net6.0\Exercício 2 - POO.pdb
+C:\Users\Acer\Desktop\Estudos C#\POO\Exercício 2 - POO\obj\Debug\net6.0\Exercício 2 - POO.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Estudos C#\POO\Exercício 2 - POO\obj\Debug\net6.0\Exercício 2 - POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Estudos C#\POO\Exercício 2 - POO\obj\Debug\net6.0\Exercício 2 - POO.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Estudos C#\POO\Exercício 2 - POO\obj\Debug\net6.0\Exercício 2 - POO.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Estudos C#\POO\Exercício 2 - POO\obj\Debug\net6.0\Exercício 2 - POO.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Estudos C#\POO\Exercício 2 - POO\obj\Debug\net6.0\Exercício 2 - POO.dll
+C:\Users\Acer\Desktop\Estudos C#\POO\Exercício 2 - POO\obj\Debug\net6.0\refint\Exercício 2 - POO.dll
+C:\Users\Acer\Desktop\Estudos C#\POO\Exercício 2 - POO\obj\Debug\net6.0\Exercício 2 - POO.pdb
+C:\Users\Acer\Desktop\Estudos C#\POO\Exercício 2 - POO\obj\Debug\net6.0\Exercício 2 - POO.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Estudos C#\POO\Exercício 2 - POO\obj\Debug\net6.0\ref\Exercício 2 - POO.dll

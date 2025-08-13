@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\Estudos C#\Estudo Fixação 1 - Férias\bin\Debug\net6.0\Estudo Fixação 1 - Férias.exe
+C:\Users\Acer\Desktop\Estudos C#\Estudo Fixação 1 - Férias\bin\Debug\net6.0\Estudo Fixação 1 - Férias.deps.json
+C:\Users\Acer\Desktop\Estudos C#\Estudo Fixação 1 - Férias\bin\Debug\net6.0\Estudo Fixação 1 - Férias.runtimeconfig.json
+C:\Users\Acer\Desktop\Estudos C#\Estudo Fixação 1 - Férias\bin\Debug\net6.0\Estudo Fixação 1 - Férias.dll
+C:\Users\Acer\Desktop\Estudos C#\Estudo Fixação 1 - Férias\bin\Debug\net6.0\Estudo Fixação 1 - Férias.pdb
+C:\Users\Acer\Desktop\Estudos C#\Estudo Fixação 1 - Férias\obj\Debug\net6.0\Estudo Fixação 1 - Férias.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Estudos C#\Estudo Fixação 1 - Férias\obj\Debug\net6.0\Estudo Fixação 1 - Férias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Estudos C#\Estudo Fixação 1 - Férias\obj\Debug\net6.0\Estudo Fixação 1 - Férias.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Estudos C#\Estudo Fixação 1 - Férias\obj\Debug\net6.0\Estudo Fixação 1 - Férias.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Estudos C#\Estudo Fixação 1 - Férias\obj\Debug\net6.0\Estudo Fixação 1 - Férias.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Estudos C#\Estudo Fixação 1 - Férias\obj\Debug\net6.0\Estudo Fixação 1 - Férias.dll
+C:\Users\Acer\Desktop\Estudos C#\Estudo Fixação 1 - Férias\obj\Debug\net6.0\refint\Estudo Fixação 1 - Férias.dll
+C:\Users\Acer\Desktop\Estudos C#\Estudo Fixação 1 - Férias\obj\Debug\net6.0\Estudo Fixação 1 - Férias.pdb
+C:\Users\Acer\Desktop\Estudos C#\Estudo Fixação 1 - Férias\obj\Debug\net6.0\Estudo Fixação 1 - Férias.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Estudos C#\Estudo Fixação 1 - Férias\obj\Debug\net6.0\ref\Estudo Fixação 1 - Férias.dll
